@@ -1,0 +1,13 @@
+.container > .text {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: yellow;
+    padding: 30px;
+    font-size: 40px;
+    font-weight: 600;
+    color: red;
+    text-align: center;
+}
+p.text {
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
